@@ -1,0 +1,6 @@
+body{
+    
+    background: linear-gradient(to bottom, #ff6200, #ffffff);
+    height: 100vh; /* Garante que o degradê cubra a tela toda */
+    margin: 0;
+}
